@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Cristian!
-- I’m a __Junior Full-Stack-Web-Developer__ living in _Bucharest_ experienced in building accessible web applications using *C#* with __ASP.NET Core__ for _Back-End_ and *JavaScript* with __React__ for _Front-End_. As a recent gratuated CodeCool Student, I’m looking to increase my portfolio and learning lots of new things.
+- I’m a __Junior Full-Stack-Web-Developer__ living in _Bucharest_ experienced in building accessible web applications using *C#* with __ASP.NET Core__ for _Back-End_ and *JavaScript* with __React__ for _Front-End_. As a recent gratuated CodeCool Student, I’m looking to increase my portfolio and. I'm very open to learn lots of new things.
 
 ### I'm currently working on 🧑‍💻
 - My _React_, and _JavaScript_ skills
