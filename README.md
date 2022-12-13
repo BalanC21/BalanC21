@@ -7,8 +7,8 @@
 - Best approaches to build Web Applications 
 
 ### I'm currently learning 🤓
- - How to buid a *web application* with __ASP.NET Core__ and __React__
- - How to buid a *web application* with __Spring__ and __React__
+ - How to build a *web application* with __ASP.NET Core__ and __React__
+ - How to build a *web application* with __Spring__ and __React__
 
 ### I want to learn 🤔
 - Next.js
