@@ -2,35 +2,35 @@
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/Java_Logo.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/Java_Logo.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/Csharp_Logo.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/Csharp_Logo.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/NET_Core_Logo.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/NET_Core_Logo.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/redux-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/redux-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/Python-logo-notext.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/Python-logo-notext.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/Flask_logo.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/Postgresql_elephant.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/Postgresql_elephant.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/microsoft-sql-server-logo-vector.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/microsoft-sql-server-logo-vector.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/git-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/git-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/jira-1.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/jira-1.svg" height="auto" width="40">
 </p>
 
 
