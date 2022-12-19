@@ -48,7 +48,7 @@
 
 ### I want to learn 🤔
 - Next.js
-- Java with Spring
+- Java with Spring Framework
 - Angular
 - TypeScript
 - Best _Design Patterns_ and How to "_Structure Your Code_" In a Large Application
