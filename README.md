@@ -16,6 +16,8 @@
 
 <img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/Python-logo-notext.svg" height="auto" width="40">
 
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/Flask_logo.svg" height="auto" width="40">
+
 <img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/Postgresql_elephant.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/microsoft-sql-server-logo-vector.svg" height="auto" width="40">
