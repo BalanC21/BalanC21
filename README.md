@@ -1,3 +1,33 @@
+## Skill set:
+
+<p align="left">
+
+
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/react-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/nodejs-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/javascript-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/css3-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/react-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/jquery-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/html5-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/bootstrap-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/visualstudio-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/redux-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/git-original.svg" height="auto" width="40">
+</p>
+
+
 ## Hi there 👋 I'm Cristian!
 - I’m a __Junior Full-Stack-Web-Developer__ living in _Bucharest_ experienced in building accessible web applications using *C#* with __ASP.NET Core__ for _Back-End_ and *JavaScript* with __React__ for _Front-End_. As a recent gratuated CodeCool Student, I’m looking to increase my portfolio and, I'm very open to learn lots of new things.
 
