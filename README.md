@@ -2,7 +2,7 @@
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/Java_Logo.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/Java_Logo.png" height="auto" width="30">
 
 <img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assets/Csharp_Logo.png" height="auto" width="40">
 
