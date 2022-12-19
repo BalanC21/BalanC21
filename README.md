@@ -27,6 +27,8 @@
 <img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/bootstrap-plain.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/git-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/balanc21/balanc21/main/assests/jira-1.svg" height="auto" width="40">
 </p>
 
 
